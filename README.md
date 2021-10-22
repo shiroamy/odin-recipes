@@ -1,0 +1,1 @@
+It's first HTML project named odin-recipes with follow the odin project fundation class.
